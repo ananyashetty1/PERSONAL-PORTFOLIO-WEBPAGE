@@ -19,3 +19,5 @@ Finally, deploying this portfolio online makes it easily accessible to recruiter
 #output
 
 In conclusion, the portfolio website is not just a static resume but a living showcase of my journey, skills, and aspirations. It reflects my technical expertise, creativity, and determination to grow as a software professional. By building it from scratch using HTML, CSS, and JavaScript, I have strengthened my web development skills and created a valuable asset that will support my career growth
+#output
+<img width="1882" height="870" alt="Image" src="https://github.com/user-attachments/assets/c5cdb11b-3ce9-48e4-9523-f986b2d71814" />
