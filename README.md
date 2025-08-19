@@ -22,3 +22,4 @@ In conclusion, the portfolio website is not just a static resume but a living sh
 #output
 <img width="1882" height="870" alt="Image" src="https://github.com/user-attachments/assets/c5cdb11b-3ce9-48e4-9523-f986b2d71814" />
 <img width="1903" height="854" alt="Image" src="https://github.com/user-attachments/assets/fa5f13a9-44d7-4600-9daa-1e1daaf77707" />
+<img width="1891" height="862" alt="Image" src="https://github.com/user-attachments/assets/a9949cdd-b057-4889-9bc6-910f0db81768" />
